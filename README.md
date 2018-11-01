@@ -1,2 +1,3 @@
-# aahan
-This is the first file in the new branch to commit.
+# Advance GIT
+This repository will be used to experiment and learn all the advance GIT features.
+
